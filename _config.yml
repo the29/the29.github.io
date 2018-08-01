@@ -13,5 +13,3 @@ defaults:
       path: "assets/img"
     values:
       image: true
-
-url: http://the29.co
