@@ -1,1 +1,9 @@
 theme: jekyll-theme-minimal
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+
+url: http://the29.co
